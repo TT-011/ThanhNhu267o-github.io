@@ -1,0 +1,15 @@
+<HTML>
+<HEAD>
+</HEAD>
+<BODY>
+  <Center>
+         <h3>THÔNG TIN LIÊN HỆ</h3>
+         <i>Mọi Chi Tiết Xin Liên Hệ</i>
+         <hr width="300"/>
+         Nguyễn Thanh Như<br />
+         Trường Cao Đẳng Công Nghệ Cao Đồng Nai<br />
+         ĐT: 0335780726<br />
+         Email: nguyennhu26007@gmail.com
+  <Center>
+<BODY>
+</HTML>
